@@ -1,6 +1,7 @@
 import random
 
 print('guess the number(0 to 100)')
+
 number=random.randint(0,100)
 chance=0
 a=False
